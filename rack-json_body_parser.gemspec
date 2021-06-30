@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
 
   spec.authors = ['Joseph Choe']
   spec.email = ['joseph@josephchoe.com']
-  spec.homepage = 'https://github.com/hyperluminum/rack-json-body-parser'
+  spec.homepage = 'https://github.com/josephchoe/rack-json-body-parser'
 
   spec.require_paths = ['lib']
   spec.files = Dir.glob('{lib}/**/*')
